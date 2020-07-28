@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Teste2DCL\bin\Debug\Teste2DCL.exe.config
+C:\Users\Daniel\source\repos\Teste2DCL\bin\Debug\Teste2DCL.exe
+C:\Users\Daniel\source\repos\Teste2DCL\bin\Debug\Teste2DCL.pdb
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.Form1.resources
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.exe
+C:\Users\Daniel\source\repos\Teste2DCL\obj\Debug\Teste2DCL.pdb

@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\TesteUmDcl\bin\Debug\TesteUmDcl.exe.config
+C:\Users\Daniel\source\repos\TesteUmDcl\bin\Debug\TesteUmDcl.exe
+C:\Users\Daniel\source\repos\TesteUmDcl\bin\Debug\TesteUmDcl.pdb
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.Form1.resources
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.Properties.Resources.resources
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.exe
+C:\Users\Daniel\source\repos\TesteUmDcl\obj\Debug\TesteUmDcl.pdb
